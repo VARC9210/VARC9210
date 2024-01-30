@@ -1,4 +1,4 @@
-<a href="https://github.com/VARC9210"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F7F7F7&width=435&lines=нєу%2C+му+ѕєℓƒ+∂єνιℓ+;ƒяσм+∂єℓнι%2C+ιη∂ια+%F0%9F%9A%A9;Python+Dev!;Telegram%3A+%40⏤͟͞ᗪᴇvɪʟ </>" alt="https://t.me/DEVIL_ARC_XD" /></a>
+### Hey My Self Kunal From Delhi, India
 
 - 🔭 I’m currently working on my emotions
 - 🌱 I’m currently learning Web Development (in C++)
