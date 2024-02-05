@@ -37,7 +37,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![FFmpeg](https://shields.io/badge/FFmpeg-black?logo=ffmpeg&style=for-the-badge)
-Google?
 
 
 ### Check out [Telegram Bots List](https://t.me/DEVIL_ARC_XD/4)
