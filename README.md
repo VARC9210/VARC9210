@@ -1,20 +1,20 @@
-### Hey My Self Kunal From Delhi, India
+### ʜᴇʏ ᴍʏ ꜱᴇʟꜰ ᴋᴜɴᴀʟ ꜰʀᴏᴍ ᴅᴇʟʜɪ, ɪɴᴅɪᴀ
 
-- 🔭 I’m currently working on my emotions
-- 🌱 I’m currently learning Web Development (in C++)
-- 💬 Don't ask me about anything 
-- ⭐ I create open source telegram bots on [DEVIL BOTS](https://t.me/DEVIL_ARC_XD)
-- 📫 How to reach me: [Telegram](https://t.me/KANU_XD) or [SocialMedia](https://t.me/KANU_XD/15)
-- 🧑‍💻 Hey, Thanks for following me... if you are.
+- 🔭 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ ᴍʏ ᴇᴍᴏᴛɪᴏɴꜱ
+- 🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ (ɪɴ ᴄ++)
+- 💬 ᴅᴏɴ'ᴛ ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ ᴀɴʏᴛʜɪɴɢ
+- ⭐ ɪ ᴄʀᴇᴀᴛᴇ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛꜱ ᴏɴ [ᴅᴇᴠɪʟ ʙᴏᴛꜱ](https://t.me/DEVIL_ARC_XD)
+- 📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ: [ᴛᴇʟᴇɢʀᴀᴍ](https://t.me/KANU_XD) ᴏʀ [ꜱᴏᴄɪᴀʟᴍᴇᴅɪᴀ](https://t.me/KANU_XD/15)
+- 🧑‍💻 ʜᴇʏ, ᴛʜᴀɴᴋꜱ ꜰᴏʀ ꜰᴏʟʟᴏᴡɪɴɢ ᴍᴇ... ɪꜰ ʏᴏᴜ ᴀʀᴇ.
 
-### Some Shits
+### ꜱᴏᴍᴇ ꜱʜɪᴛꜱ
 
 <p align="center">
   <img alt="Trophies" style="padding-bottom:18px;" src="https://github-profile-trophy.vercel.app/?username=kunal&theme=codeSTACKr">
 </p>
 
 
-### Technologies
+### ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -28,8 +28,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-
-### Tools
+### ᴛᴏᴏʟꜱ
 
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
@@ -47,3 +46,10 @@
 
 [![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/DEVIL_ARC_XD/5)
 
+### ᴍʏ ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ
+
+[<img src="https://github-readme-stats.vercel.app/api?username=BtwShivaMishra&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="100%">](https://github.com/VARC9210)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=BtwShivaMishra&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="100%">](https://github.com/VARC9210)
+
+[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=VARC9210&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/VARC9210)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=VARC9210)
