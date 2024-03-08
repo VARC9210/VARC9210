@@ -38,13 +38,13 @@
 ![FFmpeg](https://shields.io/badge/FFmpeg-black?logo=ffmpeg&style=for-the-badge)
 
 
-### Check out [Telegram Bots List](https://t.me/DEVIL_ARC_XD/4)
+### ᴄʜᴇᴄᴋ ᴏᴜᴛ [ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛꜱ ʟɪꜱᴛ](https://t.me/NXETWORK/4)
 
 [//]: # ([![Telegram]&#40;https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram&#41;]&#40;https://t.me/StarkBots&#41;)
 
 [![Telegram](https://img.shields.io/badge/Join-Telegram-blue?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgaGVpZ2h0PSI1MTIiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjUxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJtOS40MTcgMTUuMTgxLS4zOTcgNS41ODRjLjU2OCAwIC44MTQtLjI0NCAxLjEwOS0uNTM3bDIuNjYzLTIuNTQ1IDUuNTE4IDQuMDQxYzEuMDEyLjU2NCAxLjcyNS4yNjcgMS45OTgtLjkzMWwzLjYyMi0xNi45NzIuMDAxLS4wMDFjLjMyMS0xLjQ5Ni0uNTQxLTIuMDgxLTEuNTI3LTEuNzE0bC0yMS4yOSA4LjE1MWMtMS40NTMuNTY0LTEuNDMxIDEuMzc0LS4yNDcgMS43NDFsNS40NDMgMS42OTMgMTIuNjQzLTcuOTExYy41OTUtLjM5NCAxLjEzNi0uMTc2LjY5MS4yMTh6IiBmaWxsPSIjMDM5YmU1Ii8+PC9zdmc+)](https://t.me/DEVIL_ARC_XD)
 
-[![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/DEVIL_ARC_XD/5)
+[![ᴄʜᴀᴛ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/kexx_xd)
 
 ### ᴍʏ ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ
 
