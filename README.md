@@ -48,7 +48,7 @@
 
 ### ᴍʏ ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ
 
-[<img src="https://github-readme-stats.vercel.app/api?username=BtwShivaMishra&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="100%">](https://github.com/VARC9210)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=BtwShivaMishra&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="100%">](https://github.com/VARC9210)
+[<img src="https://github-readme-stats.vercel.app/api?username=VARC9210&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="100%">](https://github.com/VARC9210)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=BtwShivaMishra&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="100%">](https://github.com/VARC9210)
 
 [![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=VARC9210&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/VARC9210)
 
