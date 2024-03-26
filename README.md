@@ -9,7 +9,9 @@
 
 ### ꜱᴏᴍᴇ ᴛʀᴏᴘʜɪᴇꜱ
 
-  <img alt="Trophies" style="padding-bottom:18px;" src="https://github-profile-trophy.vercel.app/?username=kunal&theme=codeSTACKr">
+<div style="display:flex;">
+  <img alt="Trophies" style="padding-bottom:20px;margin-right:20px;" src="https://github-profile-trophy.vercel.app/?username=Kunal&theme=tokyonight">
+</div>
 
 ### ᴠɪꜱɪᴛᴏʀꜱ
 ᴄᴏᴜɴᴛɪɴɢ ᴏꜰ ᴠɪꜱɪᴛᴏʀꜱ ᴏꜰ ᴛʜɪꜱ ᴘᴀɢᴇ ꜱᴛᴀʀᴛᴇᴅ ꜰʀᴏᴍ ᴍᴀʀᴄʜ 26, 2024
