@@ -9,9 +9,7 @@
 
 ### ꜱᴏᴍᴇ ᴛʀᴏᴘʜɪᴇꜱ
 
-<p align="center">
   <img alt="Trophies" style="padding-bottom:18px;" src="https://github-profile-trophy.vercel.app/?username=kunal&theme=codeSTACKr">
-</p>
 
 ### ᴠɪꜱɪᴛᴏʀꜱ
 ᴄᴏᴜɴᴛɪɴɢ ᴏꜰ ᴠɪꜱɪᴛᴏʀꜱ ᴏꜰ ᴛʜɪꜱ ᴘᴀɢᴇ ꜱᴛᴀʀᴛᴇᴅ ꜰʀᴏᴍ ᴍᴀʀᴄʜ 26, 2024
